@@ -35,7 +35,7 @@ structing two structural channel sets of a node based on the extracted
 weights. (c) Model prediction of node influence capacity via convolu-
 tional neural networks and node-local representation](https://github.com/User2021-ai/LCNN/blob/main/LCNN%20framework%20.svg)
 
-
+An overview of the LCNN framework. (a) An example of a toy network with 6 nodes and 7 edges, where node weighting is determined by multi-scales of degree and H-index, and the adjacency matrix with size L = 3 is extracted based on only one-hop neighborhood. (b) Constructing two structural channel sets of a node based on the extracted weights. (c) Model prediction of node influence capacity via convolutional neural networks and node-local representation
 
 
 # How to Cite
