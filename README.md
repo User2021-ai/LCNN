@@ -40,15 +40,13 @@ Please cite the following paper:<br>
 <a href="https://rdcu.be/dAfVw" > Learning to rank influential nodes in complex networks via convolutional neural networks </a> 
  
 
-BibTeX:
 
  ```ruby
 Ahmad, W., Wang, B. & Chen, S. Learning to rank influential nodes in complex networks via convolutional neural networks. Appl Intell (2024). https://doi.org/10.1007/s10489-024-05336-x
 
 ```
 
- # License
-
+ 
  
  
  
