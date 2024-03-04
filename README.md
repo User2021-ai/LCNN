@@ -27,7 +27,7 @@ a moderate time consumption, which makes it suitable for large-scale networks.
  Influential nodes · Complex network · Information diffusion · Convolutional neural networks
  
  
-![Example Image]([LCNN framework.svg](https://github.com/User2021-ai/LCNN/blob/main/LCNN%20framework%20.svg))
+![LCNN framework.svg](https://github.com/User2021-ai/LCNN/blob/main/LCNN%20framework%20.svg)
 
 
 
