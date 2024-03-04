@@ -1,9 +1,6 @@
-# LCNN
-Learning to rank influential nodes in complex networks via convolutional neural networks
-
+# Learning to rank influential nodes in complex networks via convolutional neural networks
  
-
-# LCNN
+## LCNN
  
 The repository contains an implementation of LCNN framework that uses convolutional neural networks and node-local representations to identify influential nodes in complex networks.
 
