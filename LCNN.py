@@ -449,7 +449,7 @@ def rank_dataset_using_LCNN(model,model_name,input_Datasets_to_pred,path_input_D
        df3 = {'Dataset': dataName, 
               'sir_a_value_Train_Data':sir_a_value_Train_Data,   'Algo': model_name, 'Tau': tau,
              'Dense':Dense,'MaxPooling':MaxPooling,'Kernel_size':Kernel_size,'learning_rate':learning_rate}
-       df_tau_result=df_tau_result.append(df3, ignore_index = True)
+       df_tau_result=df_tau_result._append(df3, ignore_index = True)
        
        
        #df_seed_LCNN.to_csv(model_name+'__Seed.csv')
