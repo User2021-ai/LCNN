@@ -1,13 +1,14 @@
 # Learning to rank influential nodes in complex networks via convolutional neural networks
  
 ## LCNN
- 
+<p align="justify"> 
 The repository contains an implementation of LCNN framework that uses convolutional neural networks and node-local representations to identify influential nodes in complex networks.
-
+</p> 
 The associated paper to this repository can be found here:
 <a href="https://rdcu.be/dAfVw" > Learning to rank influential nodes in complex networks via convolutional neural networks </a> 
 
 ## Abstract
+<p align="justify">
 Identifying influential nodes is crucial for enhancing information diffusion in complex networks. Several approaches have
 been proposed to find these influential nodes based on the network structure that significantly impacts the node influence.
 Recently, several deep learning algorithms have also been introduced to identify influential nodes based on network exploration
@@ -18,7 +19,7 @@ using multi-scale metrics and a node’s adjacent matrix of one-hop neighbors to
 running time. According to the susceptible-infectious-recovered (SIR) model, the experiment results demonstrate that our
 proposed LCNN outperforms the state-of-the-art methods on both real-world and synthetic networks. Additionally, it exhibits
 a moderate time consumption, which makes it suitable for large-scale networks.
-
+</p>
 
 ## Keywords
  Influential nodes · Complex network · Information diffusion · Convolutional neural networks
